@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 123123
 asdadasdasdasd
+=======
+123123qweqweq
+>>>>>>> origin/feat/test-1
